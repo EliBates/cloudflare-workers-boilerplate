@@ -1,5 +1,5 @@
 {
-  "name": "runday-flow-api-v3",
+  "name": "cloudflare-workers-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "dist/indes.mjs",
